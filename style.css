@@ -1,0 +1,72 @@
+h1 {
+    color:black; 
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+    font-family: Helvetica;
+}
+h2 {
+    color:black; 
+    font-family: Helvetica;
+}
+a {
+    color: gray;
+    font-family: Helvetica;
+    font-size: 12px;
+
+}
+input {
+    width: 40%;
+    background-color: #efefef;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    height: 23px;
+    
+}
+#error {
+    font-family: helvetica;
+    font-size: 12px;
+}
+::placeholder {
+    color: #5a5a5a;
+    font-family: Helvetica;
+    font-style: inherit;
+    text-align: center;
+}
+#button {
+    border-radius: 5px;
+    text-align: center;
+    font-family: helvetica;
+    color: white;
+    background-color: #c4c4c4;
+    border: 0;
+    width: 20%;
+    height: 25px;
+    cursor: pointer;
+    transition-duration: 0.2s;
+    display: inline-block;
+}
+#button:hover {
+    background-color: black;
+    width: 23%;
+}
+#sektion {
+    text-align: center;
+    vertical-align: middle;
+}
+#logindiv {
+    background-color: #EFEFEF;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+#formwrapper {
+    padding-bottom: 5%;
+}
+#loginwrapper {
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+}
+#linkwrapper {
+    padding-bottom: 5%;
+}
